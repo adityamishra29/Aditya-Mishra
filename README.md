@@ -1,2 +1,1 @@
-# Aditya-Mishra
-DICE PREDICTION GAME
+
